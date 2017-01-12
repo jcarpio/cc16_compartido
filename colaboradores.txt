@@ -1,6 +1,3 @@
 José Carpio Cañada
-<<<<<<< HEAD
 Jose Manuel Lozano 
-=======
 Ramon Palacios Rodriguez
->>>>>>> abcd7d14b44e4960eaf4eb84405d196a1e85e33c
